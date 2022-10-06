@@ -1,0 +1,7 @@
+[user]
+	email = josamuel@deloitte.com
+	name = jojosasa101
+[init]
+	defaultBranch = main
+[credential]
+	helper = store

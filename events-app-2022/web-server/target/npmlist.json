@@ -1,0 +1,1 @@
+{"version":"1.0.0","name":"cnd-sample-web-server-step-1","dependencies":{"axios":{"version":"0.26.1"},"body-parser":{"version":"1.20.0"},"cookie-parser":{"version":"1.4.6"},"express-handlebars":{"version":"6.0.5"},"express":{"version":"4.17.3"},"hbs":{"version":"4.2.0"},"http-errors":{"version":"2.0.0"},"morgan":{"version":"1.10.0"},"nocache":{"version":"3.0.3"}}}

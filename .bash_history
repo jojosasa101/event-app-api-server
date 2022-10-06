@@ -36,3 +36,14 @@ git config --global init.defaultBranch main
 git config --global credential.helper store
 git config --global --list
 git init
+git add .
+git status
+git commit -m "Initial commit"
+https://github.com/deloitte-lp/event-app-api-server
+https://github.com/jojosasa101/event-app-api-server
+git remote add origin <https://github.com/jojosasa101/event-app-api-server>
+git remote add origin https://github.com/jojosasa101/event-app-api-server
+git branch -M main
+git push -u origin main
+git init
+git add
